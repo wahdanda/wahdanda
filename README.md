@@ -1,3 +1,6 @@
+ <img src="./assets/dementor.gif" alt="Wahyu Bagia Banner" width="100%" height="150"/><img src="./assets/header.svg" alt="Wahyu Bagia Banner" width="100%" />
+
+
 <h1 align="center">Hi 👋, I'm Danda Hasta</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from Indonesia 🇮🇩</h3>
 
@@ -39,26 +42,26 @@
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="40" height="40" align="center" /> Let's Work Together
+
+<h1 align="center">
+  ＣＯＮＮＥＣＴ
+</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gusti-ngurah-danda-hasta-7b59a1420"><img src="asset/linkedin.svg" width="330" alt="LINKEDIN" /></a>
+  <a href="mailto:gstngrdandahasta@gmail.com"><img src="asset/gmail.svg" width="330" alt="GMAIL" /></a>
+  <a href="https://instagram.com/username"><img src="asset/instagram.svg" width="330" alt="INSTAGRAM" /></a>
+</p>
+
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wahdanda&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahdanda&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wahdanda&theme=tokyonight&hide_border=true" />
-</p>
+<div data-importer="stats" align="right">
+  <img src="https://streak-stats.demolab.com?user=wahdanda&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://raw.githubusercontent.com/wahdanda/wahdanda/activity-graph-output/activity-graph.svg?radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
 
 ---
 

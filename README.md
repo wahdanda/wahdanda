@@ -57,7 +57,7 @@
 ## 📊 GitHub Statistics
 
 
-<div data-importer="stats" align="right">
+<div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=wahdanda&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://raw.githubusercontent.com/wahdanda/wahdanda/activity-graph-output/activity-graph.svg?radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>

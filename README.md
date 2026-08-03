@@ -51,7 +51,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gusti-ngurah-danda-hasta-7b59a1420"><img src="asset/linkedin.svg" width="270" alt="LINKEDIN" /></a>
   <a href="mailto:gstngrdandahasta@gmail.com"><img src="asset/gmail.svg" width="270" alt="GMAIL" /></a>
-  <a href="https://instagram.com/username"><img src="asset/instagram.svg" width="270" alt="INSTAGRAM" /></a>
+  <a href="https://www.instagram.com/dandahasta/"><img src="asset/instagram.svg" width="270" alt="INSTAGRAM" /></a>
 </p>
 
 <div data-importer="border">

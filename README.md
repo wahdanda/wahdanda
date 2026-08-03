@@ -1,4 +1,4 @@
- <img src="./asset/preview.gif" alt="Danda Banner" width="100%" height="150"/>
+ <img src="./asset/preview.gif" alt="Danda Banner" width="100%" height="250"/>
 
 
 <h1 align="center">Hi 👋, I'm Danda Hasta</h1>

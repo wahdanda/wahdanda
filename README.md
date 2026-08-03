@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 🎓 Student at **SMK N 1 Gianyar**
-- 💻 Passionate about **Full Stack Web Development**
+- 💻 Passionate about **Web Development**
 - 🌱 Currently learning **React, Tailwind CSS & Laravel**
 - 🎯 Goal: Build impactful web applications
 - 📍 Bali, Indonesia

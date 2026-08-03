@@ -1,4 +1,4 @@
- <img src="./assets/dementor.gif" alt="Wahyu Bagia Banner" width="100%" height="150"/><img src="./assets/header.svg" alt="Wahyu Bagia Banner" width="100%" />
+ <img src="./asset/preview.gif" alt="Danda Banner" width="100%" height="150"/>
 
 
 <h1 align="center">Hi 👋, I'm Danda Hasta</h1>
@@ -31,13 +31,13 @@
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,php,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,php,mysql" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---

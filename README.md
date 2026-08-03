@@ -73,6 +73,17 @@
 
 ---
 
+<h2>🚀 PageSpeed Insights</h2>
+
+🔗 **https://wahdanda.github.io/portofolio/**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Performance-100-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Accessibility-100-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Best%20Practices-100-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO-100-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</p>
+
 ## 📌 Featured Projects
 
 | Project | Description |
